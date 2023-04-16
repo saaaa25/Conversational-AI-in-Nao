@@ -28,11 +28,11 @@ To use the UiPath file for putting generated answers into choreography, follow t
 ## Dependencies
 This project requires the following dependencies:
 
-Python 3
-Python 2
-PyTorch
-NLTK
-UiPath
+- Python 3
+- Python 2
+- PyTorch
+- NLTK
+- UiPath
 
 
 
