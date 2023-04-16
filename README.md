@@ -2,12 +2,12 @@
 This project contains the necessary files to create a conversational AI using Nao, a humanoid robot, and various software tools such as UiPath, Python, and NLTK. The AI is capable of understanding and responding to natural language queries and commands.
 
 ## Files included
-chat.py: Python file containing the code to generate answers for user queries.
-intents.json: JSON file containing tags and replies for various intents.
-model.py: Python file containing the code for the neural network model.
-nltk_utils.py: Python file containing the code for natural language processing.
-train.py: Python file containing the code to train the model on the intents.json file.
-UiPath File: UiPath file for putting generated answers into choreography.
+1. chat.py: Python file containing the code to generate answers for user queries.
+2. intents.json: JSON file containing tags and replies for various intents.
+3. model.py: Python file containing the code for the neural network model.
+4. nltk_utils.py: Python file containing the code for natural language processing.
+5. train.py: Python file containing the code to train the model on the intents.json file.
+6. UiPath File: UiPath file for putting generated answers into choreography.
 
 ## How to use
 To use this conversational AI, follow these steps:
